@@ -157,7 +157,7 @@ The order of input features must match the training data format to ensure accura
 
 ##  Author
 
-**Adish Jain**
+**KrishanVardhan**
 B.Tech AI & ML
 
 ---
